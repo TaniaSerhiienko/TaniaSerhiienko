@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TaniaSerhiienko
-- 👀 I’m interested in QA Engineering and JavaScript.
-- 🌱 I’m currently learning JS and QA theory.
+- 👀 I’m interested in QA Engineering and Automation testing.
+- 🌱 I’m currently willing to discover new technologies.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ajnat@ukr.net
+- 📫 How to reach me t.serhiienko.qa@gmail.com
 
 <!---
 TaniaSerhiienko/TaniaSerhiienko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
